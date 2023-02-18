@@ -1,0 +1,11 @@
+flasgger==0.9.5
+Flask==2.2.2
+matplotlib==3.5.2
+numpy==1.21.5
+pandas==1.4.3
+hdbscan==0.8.28
+plotly==5.9.0
+scipy==1.7.3
+streamlit==1.17.0
+yellowbrick==1.5
+ua_parser==0.16.1
