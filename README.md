@@ -4,9 +4,6 @@
 ```
 ├── README.md
 ├── Dockerfile
-├── data
-│   ├── part_10.csv
-│   └── part_test.csv
 ├── models
 │   ├── dbscan.pt
 │   ├── hdbscan.pt
@@ -17,9 +14,6 @@
 │   └── solution_pt.ipynb
 ├── requirements.txt
 └── src
-    ├── __pycache__
-    │   ├── preprocess_data.cpython-38.pyc
-    │   └── utils.cpython-38.pyc
     ├── openapi.json
     ├── predict_flasgger.py
     ├── predict_streamlit.py
@@ -29,6 +23,8 @@
 
 ## Installation process
 
+- [ ] This repository requires a working installation of docker
+- [ ] You might want to install anaconda and npm
 - [ ] Please refer to requirements.txt for the required packages or run a docker container: either use pip or anaconda 
 
 ## Solution information
